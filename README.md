@@ -62,17 +62,14 @@ For Flask SERVER Application,
 3. **Run Server
     bash Server_app.sh
 
-    # MLOps Dashboard Scaling Solution
-
+   
     ## Technologies Used
 
     - **React**: Component-based UI library for building user interfaces.
     - **Vite**: Fast, modern frontend build tool for quick development and optimized production builds.
     - **CSS**: For styling and layout.
 
-    ---
-
-    ## Scaling ECG Models Analysis
+    # MLOps Dashboard: Scaling model, data and user solution
 
     This document outlines the strategy to ensure the ECG analysis solution can efficiently handle large datasets while providing a seamless user experience. The approach focuses on leveraging batch processing, resource allocation, model scaling, and effective monitoring.
 
