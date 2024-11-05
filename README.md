@@ -62,7 +62,7 @@ For Flask SERVER Application,
 3. **Run Server
     bash Server_app.sh
 
-    # ECG Analysis Solution
+    # MLOps Dashboard Scaling Solution
 
     ## Technologies Used
 
