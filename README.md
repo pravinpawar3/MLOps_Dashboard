@@ -55,11 +55,11 @@ For Flask SERVER Application,
     Clone this repository to your local/cloud machine:
     git clone https://github.com/broadinstitute/ml4h.git
 
-2. **Add files:
+2. **Add files**
   - Server_app.sh in folder: /ml4h/scripts/
   - flask_app.py at parent directory
 
-3. **Run Server
+3. **Run Server**
     bash Server_app.sh
 
    
@@ -68,7 +68,9 @@ For Flask SERVER Application,
     - **React**: Component-based UI library for building user interfaces.
     - **Vite**: Fast, modern frontend build tool for quick development and optimized production builds.
     - **CSS**: For styling and layout.
-
+    - **Flask**: Python-based microservice framework for building backend web applications.
+  
+   
     # MLOps Dashboard: Scaling model, data and user solution
 
     This document outlines the strategy to ensure the ECG analysis solution can efficiently handle large datasets while providing a seamless user experience. The approach focuses on leveraging batch processing, resource allocation, model scaling, and effective monitoring.
