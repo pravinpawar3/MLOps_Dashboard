@@ -2,6 +2,9 @@
 
 The MLOps Dashboard is a web application for managing machine learning workflows, datasets, model training, and monitoring user activity in a streamlined, centralized environment. This tool is designed to assist data scientists, ML engineers, and DevOps teams in maintaining, deploying, and tracking machine learning models efficiently.
 
+![image](https://github.com/user-attachments/assets/bd6011dc-4c1c-46f8-949d-ffd5a4a39be8)
+
+
 ---
 
 ## Features
