@@ -61,7 +61,6 @@ For Flask SERVER Application,
 
 3. **Run Server**
     bash Server_app.sh
-
    
     ## Technologies Used
 
@@ -85,7 +84,7 @@ For Flask SERVER Application,
 
     - **Batch Jobs**: Schedule batch jobs to process ECG files in groups rather than individually, significantly reducing processing time and resource usage. This can include transforming data, extracting features, and preparing datasets for machine learning models.
 
-    - **Scalability**: Batch processing will allow for horizontal scaling by adding more workers to handle increased loads, ensuring that the system can scale out as more ECGs are ingested.
+    - **Scalability**: Batch processing will allow for horizontal scaling by adding more workers to handle increased loads, ensuring that the system can scale out as more datasets are ingested.
 
     ---
 
@@ -103,7 +102,7 @@ For Flask SERVER Application,
 
     To accommodate multiple users effectively:
 
-    - **User Authentication**: Implement user authentication mechanisms (e.g., OAuth, JWT) to ensure that only authorized users can access the ECG analysis platform.
+    - **User Authentication**: Implement user authentication mechanisms (e.g., OAuth, JWT) to ensure that only authorized users can access MLOps platform.
 
     - **Role-Based Access Control (RBAC)**: Use Google Cloud IAM or Azure RBAC to manage permissions based on user roles, providing different access levels to various features of the application.
 
@@ -149,7 +148,7 @@ For Flask SERVER Application,
 
     ## Conclusion
 
-    By implementing a scalable architecture that incorporates batch processing, effective resource allocation, model scaling with custom containers, and robust monitoring and logging, the ECG analysis solution can efficiently handle increased data volumes and accommodate a growing number of users. Leveraging cloud-native services on GCP or Azure provides the flexibility and scalability needed to meet future demands.
+    By implementing a scalable architecture that incorporates batch processing, effective resource allocation, model scaling with custom containers, and robust monitoring and logging, solution can efficiently handle increased data volumes and accommodate a growing number of users. Leveraging cloud-native services on GCP or Azure provides the flexibility and scalability needed to meet future demands.
 
 
 
