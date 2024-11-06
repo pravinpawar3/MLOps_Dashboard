@@ -68,6 +68,7 @@ For Flask SERVER Application,
     - **Vite**: Fast, modern frontend build tool for quick development and optimized production builds.
     - **CSS**: For styling and layout.
     - **Flask**: Python-based microservice framework for building backend web applications.
+    - **ChatGPT**: For reformatting/commenting code and to rephrase some of my original sentence in documentation.
   
    
     # MLOps Dashboard: Scaling model, data and user solution
